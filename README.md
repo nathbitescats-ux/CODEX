@@ -369,30 +369,6 @@ Important limitations:
 
 ---
 
-## Project Structure
-
-The following is a suggested repository organization.
-
-```text
-CODEX/
-├── README.md
-├── LICENSE
-├── CONTRIBUTING.md
-├── docs/
-│   ├── methodology.md
-│   ├── scoring.md
-│   ├── classifications.md
-│   └── evaluation-guide.md
-├── examples/
-│   └── sample-report.md
-└── reports/
-    └── .gitkeep
-```
-
-The structure is a recommendation and does not imply that all listed files currently exist.
-
----
-
 ## Intended Applications
 
 CODEX is intended for:
