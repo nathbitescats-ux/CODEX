@@ -23,9 +23,7 @@ Its methodology distinguishes theoretical attack sophistication from demonstrate
 - [Classification System](#classification-system)
 - [Evaluation Workflow](#evaluation-workflow)
 - [Security Principles](#security-principles)
-- [Example Report](#example-report)
 - [Limitations](#limitations)
-- [Project Structure](#project-structure)
 - [Version Information](#version-information)
 
 ---
