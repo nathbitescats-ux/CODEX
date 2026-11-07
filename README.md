@@ -4,15 +4,10 @@ Quantitative Adversarial AI Security Evaluation Framework
 
 Created by Neon
 
-""Version" 
-(https://img.shields.io/badge/version-14.0-blue)"
-""Category" 
-(https://img.shields.io/badge/category-AI%20Security-red)"
-""Focus" 
-(https://img.shields.io/badge/focus-Adversarial%20Testing-purple)"
-""Status" 
-(https://img.shields.io/badge/status-Experimental-orange)"
-
+[![Version](https://img.shields.io/badge/version-14.0-blue)](https://github.com/nathbitescats-ux/CODEX)
+[![Category](https://img.shields.io/badge/category-AI%20Security-red)](https://github.com/nathbitescats-ux/CODEX)
+[![Focus](https://img.shields.io/badge/focus-Adversarial%20Testing-purple)](https://github.com/nathbitescats-ux/CODEX)
+[![Status](https://img.shields.io/badge/status-Experimental-orange)](https://github.com/nathbitescats-ux/CODEX)
 ---
 
 ⚡ TL;DR — What is CODEX?
