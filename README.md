@@ -1,5 +1,5 @@
 
-# CODEX v14.0 (  LATEST  ) 
+# CODEX v14.0 (LATEST) 
 
 ### Quantitative Adversarial AI Security Evaluation Framework
 
