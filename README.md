@@ -7,6 +7,7 @@ Quantitative Adversarial AI Security Evaluation Framework
 "Focus" (https://img.shields.io/badge/focus-AI%20Security-7C3AED?style=flat-square)
 "Evaluation" (https://img.shields.io/badge/method-evidence--based-0F766E?style=flat-square)
 
+
 CODEX is a structured AI security evaluation framework designed to analyze jailbreak prompts, examine adversarial instruction techniques, assess model resistance, and produce evidence-based security reports.
 
 Its methodology separates the complexity of an attack from its demonstrated effectiveness, preventing theoretical analysis from being misrepresented as verified results.
