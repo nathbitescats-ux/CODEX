@@ -1,6 +1,8 @@
 
 # CODEX — Usage Instructions
 
+## Note : Always Use I Repeat ALWAYS Use Think Harder, in every single request you do with CODEX 
+
 This guide explains how to load CODEX into ChatGPT and submit a jailbreak prompt for structured analysis.
 
 ## 1. Locate the CODEX Prompt
