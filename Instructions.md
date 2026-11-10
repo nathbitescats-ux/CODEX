@@ -41,7 +41,7 @@ Perform a structured assessment covering:
 6. Internal consistency
 7. Potential weaknesses and failure points
 8. Evidence quality and evaluation confidence
-
+9. Follow The Codex Prompt
 Identify what the prompt attempts to do, explain which components are effective or ineffective from a structural perspective, and identify specific areas that require correction.
 
 Provide actionable, evidence-based recommendations.
